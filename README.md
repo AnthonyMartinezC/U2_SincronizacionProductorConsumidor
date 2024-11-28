@@ -1,4 +1,4 @@
-# Productor-Consumidor: Simulación en Java
+# Detalles sobre la App
 
 Este proyecto implementa el clásico problema de sincronización **Productor-Consumidor** utilizando el lenguaje Java. 
 
