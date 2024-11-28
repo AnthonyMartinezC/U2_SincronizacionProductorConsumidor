@@ -23,9 +23,9 @@ Para garantizar un funcionamiento adecuado, el programa utiliza técnicas de sin
 - Un entorno de desarrollo compatible con Java (como IntelliJ IDEA o Eclipse).
 - Gradle (opcional, si deseas compilar y ejecutar el proyecto con él).
 
-## **Tecnologías utilizadas y conocimientos profundizados**
+## **Tecnologías/herramientas utilizadas y conocimientos profundizados**
 
-### **Tecnologías utilizadas:**
+### **Tecnologías y herramientas utilizadas:**
 - **Java Threads:** Para implementar hilos concurrentes que representan al productor y al consumidor.
 - **Monitor en Java (`synchronized`):** Para coordinar el acceso al recurso compartido.
 - **Logger (`java.util.logging`):** Para registrar mensajes de depuración y manejo de errores.
