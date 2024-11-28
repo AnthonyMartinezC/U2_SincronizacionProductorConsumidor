@@ -27,7 +27,7 @@ Para garantizar un funcionamiento adecuado, el programa utiliza técnicas de sin
 
 ### **Tecnologías y herramientas utilizadas:**
 - **Java Threads:** Para implementar hilos concurrentes que representan al productor y al consumidor.
-- **Monitor en Java (`synchronized`):** Para coordinar el acceso al recurso compartido.
+- **Monitor en Java (`synchronized`):** Para coordinar el acceso al recurso compartido.(evita la condición de carrera)
 - **Logger (`java.util.logging`):** Para registrar mensajes de depuración y manejo de errores.
 - **Estructura de datos (`LinkedList`):** Para gestionar dinámicamente las mesas ocupadas.
 - **IntelliJ IDEA:** El IDE donde se desarrolló y compiló el programa.
