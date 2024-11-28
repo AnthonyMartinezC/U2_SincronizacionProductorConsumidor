@@ -30,7 +30,7 @@ Para garantizar un funcionamiento adecuado, el programa utiliza técnicas de sin
 - **Monitor en Java (`synchronized`):** Para coordinar el acceso al recurso compartido.
 - **Logger (`java.util.logging`):** Para registrar mensajes de depuración y manejo de errores.
 - **Estructura de datos (`LinkedList`):** Para gestionar dinámicamente las mesas ocupadas.
-- - **IntelliJ IDEA:** El IDE donde se desarrolló y compiló el programa.
+- **IntelliJ IDEA:** El IDE donde se desarrolló y compiló el programa.
 
 ### **Conocimientos profundizados:**
 - **Problemas de concurrencia:** Cómo evitar condiciones de carrera mediante sincronización.
