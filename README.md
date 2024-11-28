@@ -36,7 +36,7 @@ Para garantizar un funcionamiento adecuado, el programa utiliza técnicas de sin
 - **Programación concurrente:** Uso de `wait()` y `notifyAll()` para gestionar la interacción entre hilos.
 - **Sincronización en Java:** Diseño de un monitor para controlar el acceso a un recurso compartido.
 - **Buena organización del código:** Separación en clases claras y reutilizables.
-- **Manejo avanzado de excepciones:** Uso de logging para registrar errores en lugar de imprimir directamente en consola.
+- **Manejo de excepciones con Loggin :** Uso de logging para registrar errores en lugar de imprimir directamente en consola.
 
 ## **Para la ejecución del programa**
 1. Clona este repositorio en tu máquina local:
